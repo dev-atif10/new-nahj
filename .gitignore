@@ -1,0 +1,59 @@
+# ========================================
+# Laravel Core
+# ========================================
+/vendor/
+/node_modules/
+/public/build
+/public/hot
+/public/storage
+/storage/
+/storage/*.key
+/storage/framework/
+/storage/logs/
+/public/store/
+/public/assets/
+/public/vendor/
+/public/ViewerJS/
+# /public/1المدرب.pdf
+# /public/check.php
+# /public/index.php
+# /public/mix-manifest.json
+# /public/المتدرب.pdf
+# /public/المدرب.pdf
+
+ 
+
+# ========================================
+# Environment & Config
+# ========================================
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+
+# ========================================
+# IDE & Editors
+# ========================================
+/.idea/
+/.vscode/
+
+# ========================================
+# Logs & Cache
+# ========================================
+npm-debug.log
+yarn-error.log
+
+# ========================================
+# Temporary / Backup Files
+# ========================================
+Sudum.zip
+nahg_excel.zip
+old_core.zip
+
+# ========================================
+# Custom folders to ignore
+# ========================================
+integrations/
