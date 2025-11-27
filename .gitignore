@@ -10,7 +10,7 @@
 /storage/*.key
 /storage/framework/
 /storage/logs/
-/public/
+# /public/
 
  
 
